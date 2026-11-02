@@ -1,0 +1,74 @@
+[
+  {
+    "id": "handoff-worktables",
+    "file": "handoff-worktables.png",
+    "width": 1536,
+    "height": 1024,
+    "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+    "font_loaded": true,
+    "glyphs_checked": true,
+    "overflow_checked": true,
+    "background_sha256": "2ec951c02b3f6bec23c33cebb196c7ecdf0aacd64814dedaf4b20e65c240e46a",
+    "sha256": "d48cae42505f2d6d12ba2166b6a45cde3855252c53db6f5955dbbcc67ead826b"
+  },
+  {
+    "id": "handoff-selection",
+    "file": "handoff-selection.png",
+    "width": 1536,
+    "height": 1024,
+    "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+    "font_loaded": true,
+    "glyphs_checked": true,
+    "overflow_checked": true,
+    "background_sha256": "44b886fa1900c87743936724167015e270340ad54bacbef68908d027a4aeff00",
+    "sha256": "f07177e40b4f4b9a1d6456bdef4124b215bbf976d4b5f037fae5c2d59732185c"
+  },
+  {
+    "id": "handoff-permission",
+    "file": "handoff-permission.png",
+    "width": 1536,
+    "height": 1024,
+    "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+    "font_loaded": true,
+    "glyphs_checked": true,
+    "overflow_checked": true,
+    "background_sha256": "2cacb62a83adc50fac452cb48e0be1ceaa352376dfcbc4325570c324f8140e82",
+    "sha256": "f99d725bdc16399aba99ab76065e500bb89bd645e5d6b416e858b8d388135402"
+  },
+  {
+    "id": "daywise-reading",
+    "file": "daywise-reading.png",
+    "width": 1536,
+    "height": 1024,
+    "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+    "font_loaded": true,
+    "glyphs_checked": true,
+    "overflow_checked": true,
+    "background_sha256": "175dbeb541cb116473c832ca07922472a58155d694dc4ce893ccf6bc41c4b7be",
+    "sha256": "e678ffa2331ea0b8bb844267848fd3f40b8d53b6ad1ded236e28e1200d50f3e9"
+  },
+  {
+    "id": "daywise-pause",
+    "file": "daywise-pause.png",
+    "width": 1536,
+    "height": 1024,
+    "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+    "font_loaded": true,
+    "glyphs_checked": true,
+    "overflow_checked": true,
+    "background_sha256": "529d79b4e42da68e85b68ce0b2e858ca39d16b8b967b97ee72317b95048df6c7",
+    "sha256": "b11b3ffb2e95e65470787414de1631e37cf4c1dd56877dd8588f7d28822b928e"
+  },
+  {
+    "id": "report-pipeline",
+    "file": "report-pipeline.png",
+    "width": 1536,
+    "height": 1024,
+    "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+    "font_loaded": true,
+    "glyphs_checked": true,
+    "overflow_checked": true,
+    "background_sha256": "b0dff15332695d91c83627931ae1d2fd0fe645850f41dcb4d7a54f16fd831672",
+    "sha256": "4db1860d5ff152cff939d65d13d4343209d477b907765e56b98cd4bfc20b242c"
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "collection": "mynote-huifont-update-2026-11-02",
+  "font": "HuiFontP29 / ふい字Ｐ v2.9",
+  "font_source": "User-provided; sample A selected 2026-11-02; font binary not redistributed",
+  "method": "Native image editing creates text-free backgrounds; real TTF text layers composed in Chromium; final flattened PNG",
+  "text_changes": [
+    {
+      "original": "這三張就夠",
+      "replacement": "這三張就好",
+      "reason": "夠 absent"
+    },
+    {
+      "original": "先給你看看",
+      "replacement": "先看看草稿",
+      "reason": "你 mapped but has an empty outline"
+    },
+    {
+      "original": "啟動任務",
+      "replacement": "開始任務",
+      "reason": "啟 absent"
+    },
+    {
+      "original": "檢查日期與章節",
+      "replacement": "核對日期與章節",
+      "reason": "查 absent"
+    },
+    {
+      "original": "保留本次產物",
+      "replacement": "保留本次文件",
+      "reason": "產 absent"
+    },
+    {
+      "original": "一份完整報告",
+      "replacement": "一篇完整報告",
+      "reason": "份 mapped but has an empty outline"
+    },
+    {
+      "original": "同一份分析，整理成便於閱讀的報告與郵件",
+      "replacement": "同一次分析，整理成報告與郵件",
+      "reason": "份 empty; 閱 absent; same report/email process retained"
+    }
+  ],
+  "assets": [
+    {
+      "id": "handoff-worktables",
+      "path": "img/posts/2026-11-02-huifont-update/handoff-worktables.png",
+      "article": "skills-project-handoff",
+      "alt": "两张工作台各司其职：一边核实材料，另一边面向读者讲清楚",
+      "sha256": "d48cae42505f2d6d12ba2166b6a45cde3855252c53db6f5955dbbcc67ead826b",
+      "media_type": "image/png",
+      "bytes": 1192607,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作无字底图，HuiFontP29 实际排字，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed",
+      "font": "HuiFontP29 / ふい字Ｐ v2.9",
+      "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+      "source_asset": {
+        "commit": "4b361e324fc82684e1e80d134fc570b6f94fede1",
+        "path": "img/posts/2026-11-02-mynote-comics/handoff-worktables.png"
+      },
+      "glyph_outline_review": "passed"
+    },
+    {
+      "id": "handoff-selection",
+      "path": "img/posts/2026-11-02-huifont-update/handoff-selection.png",
+      "article": "skills-project-handoff",
+      "alt": "先递来接不住的一大堆资料，再筛出三张相关材料完成交接",
+      "sha256": "f07177e40b4f4b9a1d6456bdef4124b215bbf976d4b5f037fae5c2d59732185c",
+      "media_type": "image/png",
+      "bytes": 1375520,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作无字底图，HuiFontP29 实际排字，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed",
+      "font": "HuiFontP29 / ふい字Ｐ v2.9",
+      "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+      "source_asset": {
+        "commit": "4b361e324fc82684e1e80d134fc570b6f94fede1",
+        "path": "img/posts/2026-11-02-mynote-comics/handoff-selection.png"
+      },
+      "glyph_outline_review": "passed"
+    },
+    {
+      "id": "handoff-permission",
+      "path": "img/posts/2026-11-02-huifont-update/handoff-permission.png",
+      "article": "skills-project-handoff",
+      "alt": "交出材料时先不发布，获得明确同意后再发布",
+      "sha256": "f99d725bdc16399aba99ab76065e500bb89bd645e5d6b416e858b8d388135402",
+      "media_type": "image/png",
+      "bytes": 1245798,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作无字底图，HuiFontP29 实际排字，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed",
+      "font": "HuiFontP29 / ふい字Ｐ v2.9",
+      "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+      "source_asset": {
+        "commit": "4b361e324fc82684e1e80d134fc570b6f94fede1",
+        "path": "img/posts/2026-11-02-mynote-comics/handoff-permission.png"
+      },
+      "glyph_outline_review": "passed"
+    },
+    {
+      "id": "daywise-reading",
+      "path": "img/posts/2026-11-02-huifont-update/daywise-reading.png",
+      "article": "daywise-project-story",
+      "alt": "先读报告摘要，再展开与自己相关的内容查看依据",
+      "sha256": "e678ffa2331ea0b8bb844267848fd3f40b8d53b6ad1ded236e28e1200d50f3e9",
+      "media_type": "image/png",
+      "bytes": 1202012,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作无字底图，HuiFontP29 实际排字，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed",
+      "font": "HuiFontP29 / ふい字Ｐ v2.9",
+      "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+      "source_asset": {
+        "commit": "4b361e324fc82684e1e80d134fc570b6f94fede1",
+        "path": "img/posts/2026-11-02-mynote-comics/daywise-reading.png"
+      },
+      "glyph_outline_review": "passed"
+    },
+    {
+      "id": "daywise-pause",
+      "path": "img/posts/2026-11-02-huifont-update/daywise-pause.png",
+      "article": "daywise-project-story",
+      "alt": "准备行动前先停下来核实信息，也可以选择等待",
+      "sha256": "b11b3ffb2e95e65470787414de1631e37cf4c1dd56877dd8588f7d28822b928e",
+      "media_type": "image/png",
+      "bytes": 1251047,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作无字底图，HuiFontP29 实际排字，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed",
+      "font": "HuiFontP29 / ふい字Ｐ v2.9",
+      "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+      "source_asset": {
+        "commit": "4b361e324fc82684e1e80d134fc570b6f94fede1",
+        "path": "img/posts/2026-11-02-mynote-comics/daywise-pause.png"
+      },
+      "glyph_outline_review": "passed"
+    },
+    {
+      "id": "report-pipeline",
+      "path": "img/posts/2026-11-02-huifont-update/report-pipeline.png",
+      "alt": "日有所见按启动任务、AI 分析、程序校验、生成报告和邮件交付五步处理信息",
+      "caption": "报告生成与交付概览；格式校验不等于事实核验，按计划运行不保证准点送达。",
+      "sha256": "4db1860d5ff152cff939d65d13d4343209d477b907765e56b98cd4bfc20b242c",
+      "media_type": "image/png",
+      "bytes": 1172330,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作无字底图，HuiFontP29 实际排字，人工复核",
+      "usage_rights": "按用户要求生成的博客原创示意图",
+      "privacy_review": "passed",
+      "font": "HuiFontP29 / ふい字Ｐ v2.9",
+      "font_sha256": "8e1010b64baf6cf1b110500bfdf74a676897488dd1a7cbab643c21b8845ef31a",
+      "source_asset": {
+        "commit": "c89e8cec7998a439ba28a7eb8f4a32c748d5b429",
+        "path": "img/posts/2026-11-02-daywise-pipeline/report-pipeline.png"
+      },
+      "glyph_outline_review": "passed"
+    }
+  ]
+}

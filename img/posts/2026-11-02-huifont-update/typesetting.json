@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "images": [
+    {
+      "id": "handoff-worktables",
+      "labels": [
+        {
+          "text": "材料核實好了",
+          "x": 410,
+          "y": 184,
+          "width": 280,
+          "height": 90,
+          "font_size": 44,
+          "align": "center"
+        },
+        {
+          "text": "我來講清楚",
+          "x": 1041,
+          "y": 311,
+          "width": 234,
+          "height": 86,
+          "font_size": 44,
+          "align": "center"
+        }
+      ],
+      "background": "backgrounds/handoff-worktables.png"
+    },
+    {
+      "id": "handoff-selection",
+      "labels": [
+        {
+          "text": "都在這了",
+          "x": 290,
+          "y": 193,
+          "width": 190,
+          "height": 85,
+          "font_size": 46,
+          "align": "center"
+        },
+        {
+          "text": "...",
+          "x": 630,
+          "y": 410,
+          "width": 68,
+          "height": 44,
+          "font_size": 34,
+          "align": "center"
+        },
+        {
+          "text": "這三張就好",
+          "x": 1112,
+          "y": 273,
+          "width": 217,
+          "height": 83,
+          "font_size": 42,
+          "align": "center"
+        }
+      ],
+      "background": "backgrounds/handoff-selection.png"
+    },
+    {
+      "id": "handoff-permission",
+      "labels": [
+        {
+          "text": "先看看草稿",
+          "x": 271,
+          "y": 204,
+          "width": 245,
+          "height": 89,
+          "font_size": 45,
+          "align": "center"
+        },
+        {
+          "text": "先不發",
+          "x": 547,
+          "y": 370,
+          "width": 164,
+          "height": 80,
+          "font_size": 48,
+          "align": "center"
+        },
+        {
+          "text": "可以發了",
+          "x": 1085,
+          "y": 254,
+          "width": 204,
+          "height": 82,
+          "font_size": 48,
+          "align": "center"
+        }
+      ],
+      "background": "backgrounds/handoff-permission.png"
+    },
+    {
+      "id": "daywise-reading",
+      "labels": [
+        {
+          "text": "先看重點",
+          "x": 254,
+          "y": 281,
+          "width": 270,
+          "height": 92,
+          "font_size": 54,
+          "align": "center"
+        },
+        {
+          "text": "這一條，展開看看",
+          "x": 987,
+          "y": 283,
+          "width": 403,
+          "height": 93,
+          "font_size": 48,
+          "align": "center"
+        }
+      ],
+      "background": "backgrounds/daywise-reading.png"
+    },
+    {
+      "id": "daywise-pause",
+      "labels": [
+        {
+          "text": "要不要現在動？",
+          "x": 229,
+          "y": 201,
+          "width": 375,
+          "height": 105,
+          "font_size": 52,
+          "align": "center"
+        },
+        {
+          "text": "先核實，也可以等",
+          "x": 1024,
+          "y": 223,
+          "width": 391,
+          "height": 94,
+          "font_size": 48,
+          "align": "center"
+        }
+      ],
+      "background": "backgrounds/daywise-pause.png"
+    },
+    {
+      "id": "report-pipeline",
+      "labels": [
+        {
+          "text": "日有所見：從信息到報告",
+          "x": 170,
+          "y": 129,
+          "width": 1196,
+          "height": 125,
+          "font_size": 84,
+          "align": "center"
+        },
+        {
+          "text": "1",
+          "x": 120,
+          "y": 313,
+          "width": 70,
+          "height": 73,
+          "font_size": 58,
+          "align": "center"
+        },
+        {
+          "text": "2",
+          "x": 427,
+          "y": 313,
+          "width": 70,
+          "height": 73,
+          "font_size": 58,
+          "align": "center"
+        },
+        {
+          "text": "3",
+          "x": 733,
+          "y": 313,
+          "width": 70,
+          "height": 73,
+          "font_size": 58,
+          "align": "center"
+        },
+        {
+          "text": "4",
+          "x": 1039,
+          "y": 313,
+          "width": 70,
+          "height": 73,
+          "font_size": 58,
+          "align": "center"
+        },
+        {
+          "text": "5",
+          "x": 1347,
+          "y": 313,
+          "width": 70,
+          "height": 73,
+          "font_size": 58,
+          "align": "center"
+        },
+        {
+          "text": "開始任務",
+          "x": 39,
+          "y": 546,
+          "width": 232,
+          "height": 67,
+          "font_size": 44,
+          "align": "center"
+        },
+        {
+          "text": "按計劃或手動\n讀取規則與章節",
+          "x": 38,
+          "y": 620,
+          "width": 234,
+          "height": 83,
+          "font_size": 30,
+          "align": "center"
+        },
+        {
+          "text": "AI 分析",
+          "x": 346,
+          "y": 546,
+          "width": 232,
+          "height": 67,
+          "font_size": 44,
+          "align": "center"
+        },
+        {
+          "text": "檢索並整理信息",
+          "x": 345,
+          "y": 620,
+          "width": 234,
+          "height": 83,
+          "font_size": 30,
+          "align": "center"
+        },
+        {
+          "text": "程序校驗",
+          "x": 652,
+          "y": 546,
+          "width": 232,
+          "height": 67,
+          "font_size": 44,
+          "align": "center"
+        },
+        {
+          "text": "核對日期與章節",
+          "x": 651,
+          "y": 620,
+          "width": 234,
+          "height": 83,
+          "font_size": 30,
+          "align": "center"
+        },
+        {
+          "text": "生成報告",
+          "x": 958,
+          "y": 546,
+          "width": 232,
+          "height": 67,
+          "font_size": 44,
+          "align": "center"
+        },
+        {
+          "text": "一篇完整報告\n保留本次文件",
+          "x": 957,
+          "y": 620,
+          "width": 234,
+          "height": 83,
+          "font_size": 30,
+          "align": "center"
+        },
+        {
+          "text": "郵件交付",
+          "x": 1266,
+          "y": 546,
+          "width": 232,
+          "height": 67,
+          "font_size": 44,
+          "align": "center"
+        },
+        {
+          "text": "正文：摘要與圖表\n附件：完整報告",
+          "x": 1265,
+          "y": 620,
+          "width": 234,
+          "height": 83,
+          "font_size": 30,
+          "align": "center"
+        },
+        {
+          "text": "同一次分析，整理成報告與郵件",
+          "x": 280,
+          "y": 760,
+          "width": 976,
+          "height": 74,
+          "font_size": 38,
+          "align": "center"
+        },
+        {
+          "text": "格式校驗不等於事實核驗",
+          "x": 32,
+          "y": 894,
+          "width": 1100,
+          "height": 58,
+          "font_size": 34,
+          "align": "left"
+        },
+        {
+          "text": "按計劃運行，不保證準點送達",
+          "x": 32,
+          "y": 944,
+          "width": 1100,
+          "height": 58,
+          "font_size": 34,
+          "align": "left"
+        }
+      ],
+      "background": "backgrounds/report-pipeline.png"
+    }
+  ]
+}
