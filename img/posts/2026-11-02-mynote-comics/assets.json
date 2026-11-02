@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "collection": "mynote-life-comic-2026-11-02",
+  "style": "mynote-life-comic",
+  "assets": [
+    {
+      "id": "handoff-worktables",
+      "path": "img/posts/2026-11-02-mynote-comics/handoff-worktables.png",
+      "article": "skills-project-handoff",
+      "alt": "两张工作台各司其职：一边核实材料，另一边面向读者讲清楚",
+      "sha256": "07b824b4b91c2a108510a91ae56e53d42415c49c25b70b4a9108b4f82853c376",
+      "media_type": "image/png",
+      "bytes": 1449158,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed"
+    },
+    {
+      "id": "handoff-selection",
+      "path": "img/posts/2026-11-02-mynote-comics/handoff-selection.png",
+      "article": "skills-project-handoff",
+      "alt": "先递来接不住的一大堆资料，再筛出三张相关材料完成交接",
+      "sha256": "6f7431db0a35133f3dbd5d5b1d8c8a9faa989d31596b5533dec91775fefbb4fc",
+      "media_type": "image/png",
+      "bytes": 1382070,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed"
+    },
+    {
+      "id": "handoff-permission",
+      "path": "img/posts/2026-11-02-mynote-comics/handoff-permission.png",
+      "article": "skills-project-handoff",
+      "alt": "交出材料时先不发布，获得明确同意后再发布",
+      "sha256": "2ed0afed6871e63ee61f5600d91db4cbd70c539b52de2280fde23a663a2e2808",
+      "media_type": "image/png",
+      "bytes": 1518550,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed"
+    },
+    {
+      "id": "daywise-reading",
+      "path": "img/posts/2026-11-02-mynote-comics/daywise-reading.png",
+      "article": "daywise-project-story",
+      "alt": "先读报告摘要，再展开与自己相关的内容查看依据",
+      "sha256": "e89f97357b770eb52995e9a96a862c89d4f33270bdd449d2d782cc279103ada0",
+      "media_type": "image/png",
+      "bytes": 1493234,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed"
+    },
+    {
+      "id": "daywise-pause",
+      "path": "img/posts/2026-11-02-mynote-comics/daywise-pause.png",
+      "article": "daywise-project-story",
+      "alt": "准备行动前先停下来核实信息，也可以选择等待",
+      "sha256": "c7246492c2dfba3d33fe86c8958b506677f72094da774a69a8349662a49af302",
+      "media_type": "image/png",
+      "bytes": 1530324,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助创作，人工复核",
+      "usage_rights": "按用户要求为其博客生成的原创概念漫画；非第三方原图",
+      "privacy_review": "passed"
+    }
+  ]
+}
