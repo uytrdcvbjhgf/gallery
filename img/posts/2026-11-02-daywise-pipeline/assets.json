@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "id": "report-pipeline",
+      "path": "img/posts/2026-11-02-daywise-pipeline/report-pipeline.png",
+      "alt": "日有所见按启动任务、AI 分析、程序校验、生成报告和邮件交付五步处理信息",
+      "caption": "报告生成与交付概览；格式校验不等于事实核验，按计划运行不保证准点送达。",
+      "sha256": "041e0f72ce509b605a73cebf8325f7dd3cddb08dc1a19ee5f74d8020d1a3a3f3",
+      "media_type": "image/png",
+      "bytes": 1263226,
+      "width": 1536,
+      "height": 1024,
+      "credit": "OpenAI 图像工具辅助生成，人工检查流程连接",
+      "usage_rights": "按用户要求生成的博客原创示意图",
+      "privacy_review": "passed"
+    }
+  ]
+}
